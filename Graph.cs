@@ -1,7 +1,3 @@
-﻿// Lucas Palomino
-// CSCI 303
-// October 9, 2022
-
 namespace Lab2
 {
     class Graph
